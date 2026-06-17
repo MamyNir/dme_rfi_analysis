@@ -1,0 +1,5 @@
+output: ~/Documents/rfi/results/time_prob.csv
+path: ~/Documents/rfi/p_outlier_tf.zarr
+freq_min: 962
+freq_max: 1087
+time_resolution: 60
